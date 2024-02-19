@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "${env:OS} == 'Windows_NT' ? './.venv/Scripts/python' : './.venv/bin/python'"
+	}
+}
