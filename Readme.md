@@ -2,7 +2,10 @@
 
 这是个实验项目。
 
-这是一个完全由Google Gemini Advanced和我结对合作创作的项目。历时大约2个小时。
+这是一个完全由Google Gemini Advanced和我结对合作创作的项目。
+
+历时大约2个小时。
+
 Gemini Advanced承担了绝大部分工作。
 我的角色主要是：
 - 提出目标
